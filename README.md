@@ -33,8 +33,8 @@ https://www.circuitvalley.com/2025/12/fpga-fmc-4x-mipi-csi-camera-breakout-fpga-
  <br>
 
 
-![alt text](https://raw.githubusercontent.com/circuitvalley/FMC_Camera_MIPI_Breakout_Board/refs/heads/main/Images/fpga_fmc_mipi_camera_MIPIX4_circuitvalley%20(1).JPG)
+![alt text](https://raw.githubusercontent.com/circuitvalley/FMC_Camera_MIPI_Breakout_Board/refs/heads/main/Images/xilinx_FPGA_ZCU_FMC_Brkeaout_gpio%20(1).JPG)
 
-![alt text](https://raw.githubusercontent.com/circuitvalley/FMC_Camera_MIPI_Breakout_Board/refs/heads/main/Images/fpga_fmc_mipi_camera_MIPIX4_circuitvalley%20(1)4.JPG)
+![alt text](https://raw.githubusercontent.com/circuitvalley/FMC_Camera_MIPI_Breakout_Board/refs/heads/main/Images/xilinx_FPGA_ZCU_FMC_Brkeaout_gpio%20(2).JPG)
 
-![alt text](https://raw.githubusercontent.com/circuitvalley/FMC_Camera_MIPI_Breakout_Board/refs/heads/main/Images/fpga_fmc_mipi_camera_MIPIX4_circuitvalley%20(5).JPG)
+![alt text](https://raw.githubusercontent.com/circuitvalley/FMC_Camera_MIPI_Breakout_Board/refs/heads/main/Images/xilinx_FPGA_ZCU_FMC_Brkeaout_gpio%20(7).JPG)
