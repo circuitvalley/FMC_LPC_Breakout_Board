@@ -23,8 +23,8 @@ Blog Post
 https://www.circuitvalley.com/2025/12/fpga-fmc-4x-mipi-csi-camera-breakout-fpga-zynq-ultrascale-xilinx-fpga-camera.html
  <br>
 
-<a href="https://www.youtube.com/watch?v=pUvJuOuf-3s">
-<img src="https://raw.githubusercontent.com/circuitvalley/FMC_Camera_MIPI_Breakout_Board/refs/heads/main/Images/fpga_fmc_mipi_camera_MIPIX4_circuitvalley%20(8)%20raspberry_pi_camera_fpga23.png" alt="RFGEN" width="1000" height="380">
+<a href="https://www.youtube.com/watch?v=JQw1FxXzbPU">
+<img src="https://raw.githubusercontent.com/circuitvalley/FMC_LPC_Breakout_Board/refs/heads/main/Images/xilinx_FPGA_ZCU_FMC_Brkeaout_gpio%20(77).png" alt="RFGEN" width="1000" height="380">
 </a>
 
 
